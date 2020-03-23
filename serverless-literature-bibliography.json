@@ -1314,5 +1314,40 @@
     "link": "https://dl.acm.org/citation.cfm?id=3340727",
     "title": "Model-based Analysis of Serverless Applications",
     "year": "2019"
+  },
+  "189": {
+    "author": "Philipp A. Witte, Mathias Louboutin, Henryk Modzelewski, Charles Jones, James Selvage, Felix J. Herrmann",
+    "journal": "arXiv/CoRR",
+    "retrieved-from-arxiv": "https://arxiv.org/abs/1909.01279",
+    "title": "An Event-Driven Approach to Serverless Seismic Imaging in the Cloud",
+    "year": "2019"
+  },
+  "190": {
+    "author": "Huber, Florian and Körber, Nikolai and Mock, Markus",
+    "booktitle": "Proceedings of the 5th International Workshop on Serverless Computing - WOSC ’19",
+    "retrieved-from-doi": "https://doi.org/10.1145/3366623.3368134",
+    "title": "Selena",
+    "year": "2019"
+  },
+  "191": {
+    "author": "Skluzacek, Tyler J. and Chard, Ryan and Wong, Ryan and Li, Zhuozhao and Babuji, Yadu N. and Ward, Logan and Blaiszik, Ben and Chard, Kyle and Foster, Ian",
+    "booktitle": "Proceedings of the 5th International Workshop on Serverless Computing - WOSC ’19",
+    "retrieved-from-doi": "https://doi.org/10.1145/3366623.3368140",
+    "title": "Serverless Workflows for Indexing Large Scientific Data",
+    "year": "2019"
+  },
+  "192": {
+    "author": "Ingo Müller, Renato Marroquín, Gustavo Alonso",
+    "journal": "arXiv/CoRR",
+    "retrieved-from-arxiv": "https://arxiv.org/abs/1912.00937",
+    "title": "Lambada: Interactive Data Analytics on Cold Data using Serverless Cloud Infrastructure",
+    "year": "2019"
+  },
+  "193": {
+    "author": "Ramachandran, Rahul and Baynes, Katie and Murphy, Kevin and Jazayeri, Alireza and Schuler, Ian and Pilone, Dan",
+    "booktitle": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+    "retrieved-from-doi": "https://doi.org/10.1109/IGARSS.2017.8126972",
+    "title": "CUMULUS: NASA’s cloud based distributed active archive center prototype",
+    "year": "2017"
   }
 }

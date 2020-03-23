@@ -598,5 +598,20 @@
   },
   "188": {
     "link": "https://dl.acm.org/citation.cfm?id=3340727"
+  },
+  "189": {
+    "arxiv": "https://arxiv.org/abs/1909.01279"
+  },
+  "190": {
+    "doi": "https://doi.org/10.1145/3366623.3368134"
+  },
+  "191": {
+    "doi": "https://doi.org/10.1145/3366623.3368140"
+  },
+  "192": {
+    "arxiv": "https://arxiv.org/abs/1912.00937"
+  },
+  "193": {
+    "doi": "https://doi.org/10.1109/IGARSS.2017.8126972"
   }
 }
